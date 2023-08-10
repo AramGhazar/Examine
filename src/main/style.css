@@ -1,0 +1,14 @@
+.flag {
+    width: 200px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.cont1 {
+    border: 1px solid black;
+}
